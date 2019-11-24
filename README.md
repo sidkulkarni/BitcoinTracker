@@ -4,4 +4,4 @@ Used bitcoinAverage API to acquire the data of the currency rates and their conv
 Incorporated Alamo Fire library to make the HTTP request to the URL of the API.
 Used SwiftyJSON to parse the JSON data received from the website and use it on the application.
 
-Used Udemy's IOS App Development Bootcamp as template and a resource for this project.
+Used Udemy's IOS App Development Bootcamp as a resource to build  this project.
